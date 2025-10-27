@@ -1,0 +1,3 @@
+The general idea of Simple Auction is that everyone can send their bids during during a bidding period.
+If the highest bid is raised, the previous higher bidder gets their Ether back.
+After the end of the bidding period, the contract has to be called manually for the beneficiary to receivw their Ether. Contracts cannot activate themselves.

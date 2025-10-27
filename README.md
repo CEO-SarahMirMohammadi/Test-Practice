@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sample Hardhat 3 Beta Project (`node:test` and `viem`)
 
 This project showcases a Hardhat 3 Beta project using the native Node.js test runner (`node:test`) and the `viem` library for Ethereum interactions.
@@ -55,3 +56,7 @@ After setting the variable, you can run the deployment with the Sepolia network:
 ```shell
 npx hardhat ignition deploy --network sepolia ignition/modules/Counter.ts
 ```
+=======
+# Test-Practice
+Every Piece of test code or Practice in any Language.
+>>>>>>> c92c17177633cb242565454b6f1b1c50c01546d1
